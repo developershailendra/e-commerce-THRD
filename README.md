@@ -1,8 +1,17 @@
-# React + Vite
+I created this E-Commerce website using HTML/CSS, JavaScript, ReactJS, and TailwindCSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This website is a simple design developed for assignment purposes. It includes the following functionalities:
 
-Currently, two official plugins are available:
+=> Users can log in using their credentials and are redirected to the product page upon successful login.
+=> The product page displays items that the user has not yet purchased.
+=> A "Purchase History" button allows users to view their purchase history by clicking on it.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Website URL : https://e-commerce-thrd.vercel.app/
+
+GitHub URL : https://github.com/developershailendra/e-commerce-THRD/tree/main
+
+Google drive Video URL : https://drive.google.com/file/d/1EtTDxdftK6qletbmX6PCiFvz75CqO9cU/view?usp=sharing
+
+
+
